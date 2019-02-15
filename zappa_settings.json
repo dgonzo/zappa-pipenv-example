@@ -1,0 +1,13 @@
+{
+    "dev": {
+        "app_function": "run.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "zappa-pipenv-ex",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-4ls9o8xwu",
+        "exclude": [
+            "opencv_python"
+        ]
+    }
+}
